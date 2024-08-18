@@ -5,7 +5,7 @@
 </br>
 Comecei já atuando na área, minha primeira experiência com programação foi já programando e aprendendo no setor de Desenvolvimento ao qual eu faço parte,
 desde então, sigo estudando eternamente por conta da tecnologia ser volátil e para me atualizar mais e mais para o mercado.
-antes mesmo de popular o **Github** eu iniciei pelo **Gitlab** por conta do trabalho.
+antes mesmo de popular o GITHUB eu iniciei minha jornada pelo GITLAB por conta do inicio da área ser no ambiente de trabalho.
 desde janeiro/fevereiro de 2022 já atuei em 4 projetos já concluídos do meu trabalho que amo e com pessoas especiais e eles são:
 
 - 😊**SEMUC**:
