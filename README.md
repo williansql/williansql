@@ -1,4 +1,5 @@
 # 👋🏻 Willians Queiroz Lisardo
+(*Em construção - mal de pedreiro meia colher*)
 
 
 #### Desenvolvedor FullStack 
