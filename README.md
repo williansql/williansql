@@ -3,8 +3,9 @@
 
 ## **Sobre mim**
 </br>
-Comecei já atuando na área, minha primeira experiência com programação foi já programando e aprendendo
+Comecei já atuando na área, minha primeira experiência com programação foi já programando e aprendendo no setor de Desenvolvimento ao qual eu faço parte,
 desde então, sigo estudando eternamente por conta da tecnologia ser volátil e para me atualizar mais e mais para o mercado.
+antes mesmo de popular o **github** eu iniciei pelo **gitlab** por conta do trabalho.
 desde janeiro/fevereiro de 2022 já atuei em 4 projetos já concluídos do meu trabalho que amo e com pessoas especiais e eles são:
 
 - 😊**SEMUC**:
@@ -59,9 +60,10 @@ e estou desenvolvendo 4 projetos pessoais:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williansql&show_icons=true&hide_title=false&count_private=true&theme=dark&title_color=EBC400&text_color=848EE9&icon_color=EB36A1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williansql&layout=compact&theme=dark)
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williansql&show_icons=true&hide_title=false&count_private=true&theme=dark&title_color=EBC400&text_color=848EE9&icon_color=EB36A1" >
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansql&layout=compact&theme=dark" >
+</div>
 
 ## Aplicação em construção atualmente
 
